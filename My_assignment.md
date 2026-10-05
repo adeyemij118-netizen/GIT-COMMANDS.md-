@@ -161,12 +161,15 @@ d. like in a bank\organisation in which the bank holds peoples money; if one is 
 
 ## Section F — Programming Exercises
 
-16. int pricePerBook = 3500;
-        int numberOfBooks = 4;
-        int totalPrice = pricePerBook * numberOfBooks;
-         System.out.println("Price of one book: ₦" + pricePerBook);
-        System.out.println("Number of books bought: " + numberOfBooks);
-        System.out.println("Total price: ₦" + totalPrice);
+~~~ java
+
+16.int pricePerBook = 3500;
+int numberOfBooks = 4;
+int totalPrice = pricePerBook * numberOfBooks;
+System.out.println("Price of one book: ₦" + pricePerBook);
+System.out.println("Number of books bought: " + numberOfBooks);
+System.out.println("Total price: ₦" + totalPrice);
+~~~    
 
 ## Section G — Read, Think and Debug
 
